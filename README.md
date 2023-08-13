@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 3rd year student pursuing b-tech in CSE , Lovely Professional University.<br>A Full Stack Web Developer.<br>
+A 4th year student pursuing b-tech in CSE , Lovely Professional University.<br>A Full Stack Web Developer.<br>
 
 
 ## 🌐 Socials:
